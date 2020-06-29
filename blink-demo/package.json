@@ -1,0 +1,14 @@
+{
+  "name": "blink-demo",
+  "version": "1.0.0",
+  "description": "A simple blink demo using johnny-five library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshil Agrawal <ghagrawal17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^1.3.1"
+  }
+}
